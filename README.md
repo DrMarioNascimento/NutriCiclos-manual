@@ -1,5 +1,7 @@
 # NutriCiclos
 
+**Estado em 7 de outubro de 2026.** Este repositório guarda o manual em PDF, não o sistema e não os pacientes. Licença proprietária, todos os direitos reservados a Mario César Nascimento e Osana Melo. Revisão documental desta nota: 7 de outubro de 2026.
+
 Consultório de nutrição. Prontuário, avaliação, dieta, cardápio, exames, documentos e agenda.
 
 Nutrição em cada ciclo da vida.
@@ -18,7 +20,7 @@ O sistema está no ar.
 |---|---|---|
 | Código do sistema | Guarda o código. Não guarda pacientes. | https://github.com/osanilda-cell/NutriCiclosSistemas |
 | Este repositório | Manual em PDF. | https://github.com/DrMarioNascimento/NutriCiclos-manual |
-| Netlify | App publicado, em uso. | O endereço está no painel: https://app.netlify.com |
+| Netlify | App publicado, em uso. | https://nutriciclossistema.netlify.app |
 | Neon | Banco dos pacientes na internet, ligado ao site e em uso. | https://neon.tech |
 | Site da clínica | Página pública da NutriCiclos. | https://nutriciclos.com.br |
 | Computador da clínica | Cópia local opcional, só enquanto o servidor de desenvolvimento estiver aberto. | http://localhost:8080 |
@@ -55,7 +57,7 @@ Set-ExecutionPolicy -Scope CurrentUser RemoteSigned
 
 Todos os direitos reservados. O texto completo está no arquivo `LICENSE`.
 
-Copiar, modificar ou distribuir este sistema exige autorização prévia por escrito dos titulares.
+Copiar, modificar ou distribuir este sistema ou este manual exige autorização prévia por escrito dos titulares. A licença não foi convertida em código aberto nesta revisão.
 
 ## Titulares
 
