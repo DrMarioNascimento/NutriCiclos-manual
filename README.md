@@ -1,6 +1,10 @@
 # NutriCiclos — manual
 
-Nutrição em cada ciclo da vida. Documentação revisada em 10 de outubro de 2026.
+## Situação atual — 19 de outubro de 2026
+
+Este repositório distribui a documentação em [Manual-NutriCiclos.pdf](Manual-NutriCiclos.pdf); a aplicação é mantida em [NutriCiclosSistemas](https://github.com/DrMarioNascimento/NutriCiclosSistemas). Esta revisão atualiza o README e a identificação da licença, sem alterar o PDF. O endereço e a configuração da aplicação em uso devem ser confirmados no ambiente da clínica.
+
+Nutrição em cada ciclo da vida. Documentação revisada em 19 de outubro de 2026.
 
 Este repositório contém o [manual em PDF](Manual-NutriCiclos.pdf). O código do sistema é mantido em [NutriCiclosSistemas](https://github.com/DrMarioNascimento/NutriCiclosSistemas). O PDF não foi alterado nesta revisão.
 
